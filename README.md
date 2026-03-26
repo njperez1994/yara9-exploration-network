@@ -1,8 +1,8 @@
 # Macana Corp: YARA-9 Exploration Network
 
-Hackathon Prototype – Active Development
-
 Gameplay-driven exploration and intelligence economy for EVE Frontier.
+
+*Hackathon Prototype – Active Development*
 
 ## Objective
 
