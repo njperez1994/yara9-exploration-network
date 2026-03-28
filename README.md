@@ -68,3 +68,9 @@ After the convergence events represented in EVE Frontier, DrZeus and allied rese
 
 Macana Corp does not only sell resources.
 Macana sells intelligence about where value exists.
+
+## Intellectual Property Notice
+
+Macana Corp, YARA-9, the Exploration Network concept, and all associated systems, designs, and narrative elements are original creations by DrZeus.
+
+All rights reserved.
