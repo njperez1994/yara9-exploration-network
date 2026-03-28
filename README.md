@@ -56,7 +56,7 @@ After the convergence events represented in EVE Frontier, DrZeus and allied rese
 
 ## Team
 
-- DrZeus - System Design, Narrative, Economy Architecture
+- Zeus1994 - System Design, Narrative, Economy Architecture
 
 ## Media and Community
 
