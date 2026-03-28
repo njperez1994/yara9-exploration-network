@@ -154,3 +154,7 @@ Macana Corp sells knowledge of where value exists.
 And in the Frontier…
 
 that is the most valuable resource of all.
+
+## Media and Community
+
+- DrZeus story arc (Mambi Espacial): https://www.youtube.com/playlist?list=PLs9Qsj8c8_C3fav3oNHz7juBbBpw2-Cmq
