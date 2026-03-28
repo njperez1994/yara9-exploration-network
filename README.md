@@ -71,6 +71,6 @@ Macana sells intelligence about where value exists.
 
 ## Intellectual Property Notice
 
-Macana Corp, YARA-9, the Exploration Network concept, and all associated systems, designs, and narrative elements are original creations by me.
+Macana Corp, YARA-9, the Exploration Network concept, and all associated systems, designs, and narrative elements are original creations by njperez1994.
 
 All rights reserved.
