@@ -68,6 +68,7 @@ After the convergence events represented in EVE Frontier, DrZeus and allied rese
 
 Macana Corp does not only sell resources.
 Macana sells intelligence about where value exists.
+
 Control the data...control the Frontier.
 
 ## Intellectual Property Notice
